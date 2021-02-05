@@ -13,6 +13,7 @@ Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in m
 
 ### **Current Projects**
 - University projects
+- <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
 
 <!--
 **kenchi-huang/kenchi-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
