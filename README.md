@@ -5,10 +5,10 @@
 Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in my second year at King's College London studying Computer Science.
 
 <a href="https://www.instagram.com/ken.h01/">
-    <img width="40" src="Icons/instagram.png"/>
+    <img width="40" src="Icons/ig.png"/>
 </a>
 <a href="https://www.linkedin.com/in/ken-chi-huang-5028561ba/">
-    <img width="40" src="Icons/linkedin.png"/>
+    <img width="40" src="Icons/in.png"/>
 </a>
 
 ### **Current Projects**
