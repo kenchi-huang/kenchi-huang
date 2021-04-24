@@ -1,4 +1,6 @@
 ### Hello! This is my Github page
+![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenchi-huang&count_private=true&show_icons=true&theme=prussian)
+
 ![GitHub followers](https://img.shields.io/github/followers/kenchi-huang?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kenchi-huang.kenchi-huang)
 
@@ -14,6 +16,8 @@ Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in m
 ### **Current Projects**
 - University projects
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenchi-huang&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kenchi-huang/kenchi-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
