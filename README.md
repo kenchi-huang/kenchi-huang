@@ -17,7 +17,7 @@ Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in m
 - University projects
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenchi-huang&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenchi-huang&langs_count=8&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kenchi-huang/kenchi-huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
