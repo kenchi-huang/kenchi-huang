@@ -4,7 +4,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/kenchi-huang?label=Follow&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kenchi-huang.kenchi-huang)
 
-Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in my second year at King's College London studying Computer Science.
+Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in my final year at King's College London studying Computer Science with a Year in Industry.
 
 <a href="https://www.instagram.com/ken.h01/">
     <img width="40" src="Icons/ig.png"/>
