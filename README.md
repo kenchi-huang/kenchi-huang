@@ -18,16 +18,7 @@ Hi! I'm <a href="http://kenchihuang.co.uk">Ken-Chi Huang</a>. I'm currently in m
 - <a href="http://lochungtin.github.io/coincontrol.web">CoinControl</a>, a personal finance management app written in React Native
 
 ### Languages
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/Java.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/CPP.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/CSS.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/JS.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/Swift.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/Scala.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/HTML.png" height = 15px>
-<img src="https://github.com/kenchi-huang/kenchi-huang/blob/main/Proficiency%20Circles/CSharp.png" height = 15px>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kenchi-huang&langs_count=8&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://ghstats.dev/api/langs?username=kenchi-huang&theme=forest)
 
 
 
